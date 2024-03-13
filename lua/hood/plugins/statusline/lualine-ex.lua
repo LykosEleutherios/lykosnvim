@@ -1,0 +1,3 @@
+return {
+	"dokwork/lualine-ex",
+}
