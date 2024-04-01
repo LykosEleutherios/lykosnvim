@@ -1,4 +1,4 @@
-#LYKOSNVIM
+# LYKOSNVIM
 
 Simple and minimal neovim configurations
 
