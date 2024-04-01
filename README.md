@@ -5,6 +5,9 @@ Simple and minimal neovim configurations
 # Screenshots
 
 ![image](https://github.com/LykosEleutherios/lykosnvim/assets/158096398/887dcd79-52a6-41b8-97e2-34e69bb733c2)
+![image](https://github.com/LykosEleutherios/lykosnvim/assets/158096398/5e96fa58-1d86-4af5-a8a2-283b54ab78df)
+![image](https://github.com/LykosEleutherios/lykosnvim/assets/158096398/8e0c6757-fdc0-4449-a99b-870a75c9efb5)
+![image](https://github.com/LykosEleutherios/lykosnvim/assets/158096398/7fc71a9a-889c-4c7d-9e65-1626db13cc9c)
 
 
 # Installation
