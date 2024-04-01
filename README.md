@@ -2,6 +2,11 @@
 
 Simple and minimal neovim configurations
 
+# Screenshots
+
+![image](https://github.com/LykosEleutherios/lykosnvim/assets/158096398/887dcd79-52a6-41b8-97e2-34e69bb733c2)
+
+
 # Installation
 
 ## 1 clone the configurations to ~/.config/nvim
