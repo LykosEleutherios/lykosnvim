@@ -1,12 +1,13 @@
 #LYKOSNVIM
+
 Simple and minimal neovim configurations
 
 # Installation
 
 ```bash
-$ git clone 
+git clone 
 ```
 
 ```bash
-$ cp
+cp
 ```
