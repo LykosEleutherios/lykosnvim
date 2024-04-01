@@ -21,3 +21,7 @@ I'm still new for GitHub and even configuring so my configs won't be perfect I'm
 
 ## 3
 The configurations primary are likely spagitti and the well configured programming languages are C and C++
+
+## 4
+
+I'll try my beset to enhance the configurations more and make it better in the future, glad to get your support:)
